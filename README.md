@@ -2,7 +2,7 @@
 
 🔹 Passionate Problem Solver | Developer | Tech Enthusiast
 
-Welcome to my GitHub! I’m a passionate Computer Science student driven by curiosity and a love for problem-solving. From full-stack web development to the depths of machine learning, I thrive on building, learning, and exploring new tech. My journey spans hands-on experience in technologies like Python, Java, React, C, Node.js, and .NET Core, and I’m especially excited about tackling challenges in cybersecurity, cryptography, and AI. Here, you’ll find a collection of projects that reflect my dedication to crafting impactful, innovative solutions.
+Welcome to my GitHub! I’m a passionate Computer Science student driven by curiosity and a love for problem-solving. From full-stack web development to the depths of machine learning, I thrive on building, learning, and exploring new tech. My journey spans hands-on experience in technologies like Python, Java, React, C, Node.js, and .NET Core, and I’m especially excited about tackling challenges in cybersecurity, Web3, and AI. Here, you’ll find a collection of projects that reflect my dedication to crafting impactful, innovative solutions.
 
 🌱 Currently:
 - Building Luna AI, an advanced video analysis AI that reduces hours of work to minutes.

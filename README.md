@@ -1,25 +1,43 @@
 ## Hi there 👋 I'm Chandra Prakash Pandey!
 
-🔹 Passionate Problem Solver | Developer | Tech Enthusiast
+Full-Stack Developer | AI/ML Engineer | Tech Innovator
 
-Welcome to my GitHub! I’m a passionate Computer Science student driven by curiosity and a love for problem-solving. From full-stack web development to the depths of machine learning, I thrive on building, learning, and exploring new tech. My journey spans hands-on experience in technologies like Python, Java, React, C, Node.js, and .NET Core, and I’m especially excited about tackling challenges in cybersecurity, Web3, and AI. Here, you’ll find a collection of projects that reflect my dedication to crafting impactful, innovative solutions.
+I’m a Computer Science student at Arizona State University with hands-on experience in AI, full-stack development, and neuromorphic computing. I love building products that merge cutting-edge research with practical impact. From leading Luna AI, a multimodal video analysis platform, to tackling cybersecurity, Web3, and data science challenges, I thrive on solving complex problems end-to-end.
 
-🌱 Currently:
-- Building Luna AI, an advanced video analysis AI that reduces hours of work to minutes.
-- Working on a media search engine capstone project to enhance content discovery and analytics.
-- Learning more about binary exploitation and network security through hands-on challenges.
+🛠️ Core Skills
 
-🚀 Goals & Projects:
-- I’m always exploring new project ideas in AI, Web3, and full-stack development.
-- I’m working on a hackathon project, Data Guardian – a decentralized AI-powered privacy protector for the web.
+**Languages & Frameworks:** Python, C/C++, Java, C#, JavaScript/TypeScript, React, Angular, .NET Core
 
-👯 Let’s Collaborate!
-I’m always open to collaborating on projects that push the boundaries of tech, especially in fields like AI, Web3, and software engineering. Feel free to reach out if you're looking for a collaborator who’s ready to dive deep into innovation.
+**AI/ML:** Deep Learning, NLP, Computer Vision, Neuromorphic Computing (BrainChip Akida, Nengo)
 
-⚡ Fun Fact:
-I’m more of an adventurous guy! I've even taken the leap with skydiving and love to travel and explore the world whenever I can. If I’m not coding, I’m probably out admiring the beauty of nature and discovering new places.
+**Systems & Tools:** FastAPI, Flask, PostgreSQL, Redis, Docker, Kubernetes, Git/GitHub, Linux
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chandra-prakash-pandey-536564256/) | [Portfolio](https://cprakash64.github.io/)
+**Specialties:** Full-Stack Engineering, Scalable System Design, Cybersecurity, AI-Driven Applications
+
+📌 Currently
+
+🧠 Building Luna AI, a video-analysis platform turning hours of footage into searchable insights.
+
+📊 Developing a media search engine capstone project for large-scale content analytics.
+
+🛩️ Prototyping AeroNerve, a neuromorphic drone using event-based vision + SNNs.
+
+🎯 Highlights
+
+Led student organization Software developer association as Technical Officer, growing partnerships with Amazon & State Farm.
+
+Built Echo Sign, an ASL gesture recognition tool (HackHarvard Winner 🏆).
+
+Designed VR surgical training simulations at ASU Makerspace, improving retention by 35%.
+
+Runner-up at LA Hacks & finalist in multiple AI/ML hackathons.
+
+🤝 Let’s Collaborate
+
+I’m open to roles and projects in AI/ML, full-stack development, and systems engineering. If you’re building something ambitious in AI, neuromorphic computing, or scalable web apps, let’s connect!
+
+
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/chandra-prakash-pandey-536564256/) | [Portfolio](https://cpandey.com/)
 
 <!--
 **cprakash64/cprakash64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

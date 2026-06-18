@@ -1,115 +1,177 @@
 <div align="center">
 
-# Hi, I'm Chandra Prakash Pandey
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:2563eb,100:111111&height=180&section=header&text=Chandra%20Prakash%20Pandey&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20Engineer%20%C2%B7%20Computer%20Vision%20Builder%20%C2%B7%20Founder%20of%20VeoTrex&descAlignY=58&descSize=16" />
 
-### AI/ML Engineer · Computer Vision Builder · Founder of VeoTrex
+<br />
 
-I build AI systems that are designed for **real deployment**, not just polished demos.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-cpandey.com-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://cpandey.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-cpandey.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cpandey.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cprakash64-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cprakash64/)
-[![GitHub](https://img.shields.io/badge/GitHub-cprakash64-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cprakash64)
+[![Email](https://img.shields.io/badge/Email-cprakash.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cprakash.work@gmail.com)
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=900&color=2563EB&center=true&vCenter=true&width=900&lines=Building+AI+systems+for+real-world+deployment.;Computer+Vision+%7C+Private+AI+%7C+Local+RAG+%7C+Edge+AI.;Not+just+demos+—+systems+that+run+under+constraints." />
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I work at the intersection of **computer vision, private AI systems, local RAG, edge intelligence, and automation**.
+I build AI systems designed for **real deployment**, not just polished demos.
 
-My focus is simple: build systems that can survive real-world constraints — **latency, privacy, reliability, deployment cost, and messy input data**.
+My work sits at the intersection of **computer vision**, **private intelligence systems**, **local RAG**, **edge AI**, and **automation**. I care about systems that can operate under real constraints: latency, privacy, reliability, cost, and messy real-world data.
 
-Currently, I am building **VeoTrex**, a computer-vision platform for industrial safety auditing across construction and logistics environments.
+Currently building **VeoTrex**, a computer-vision platform for industrial safety auditing in construction and logistics environments.
 
 ---
 
 ## What I Build
 
-| Area | What it means |
-|---|---|
-| **Computer Vision** | Detection, gesture recognition, visual automation, and safety auditing workflows |
-| **Private AI / Local RAG** | Secure document intelligence, retrieval pipelines, vector search, and local-first AI |
-| **Applied ML Systems** | ML workflows that move from prototype toward real product deployment |
-| **Edge & Efficient AI** | Low-latency systems, event-driven perception, and neuromorphic AI research |
-| **Product Engineering** | Founder-led product work across AI, automation, VR simulation, and CAD workflows |
+<table>
+<tr>
+<td width="50%">
+
+### Computer Vision Systems  
+Detection, gesture recognition, visual automation, industrial safety auditing, and real-time perception workflows.
+
+</td>
+<td width="50%">
+
+### Private AI / Local RAG  
+Secure document intelligence, retrieval pipelines, embeddings, vector search, and local-first AI workflows.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Deployment-Focused ML  
+Machine learning workflows built with reliability, cost, and real usage in mind.
+
+</td>
+<td width="50%">
+
+### Edge & Efficient AI  
+Low-latency intelligence, event-driven perception, and neuromorphic AI research.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured Projects
+## Featured Builds
+
+<table>
+<tr>
+<td width="50%">
 
 ### VeoTrex  
 **Computer Vision · Industrial Safety · B2B SaaS**
 
-Building an industrial safety auditing platform that uses computer vision to identify workplace safety and compliance risks from visual data.
+Building an industrial safety auditing platform that identifies workplace safety and compliance risks from visual data.
 
-**Focus:** visual-data ingestion, violation detection, event logging, audit reporting, deployment reliability.
+`computer vision` `edge AI` `industrial automation` `SaaS`
 
----
+</td>
+<td width="50%">
 
 ### DocWise  
 **Private AI · Local RAG · Document Intelligence**
 
 A local-first document intelligence system for private retrieval and Q&A over sensitive documents.
 
-**Focus:** document chunking, embeddings, vector search, retrieval workflows, privacy-first AI.
+`local RAG` `embeddings` `vector search` `privacy-first AI`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### Text-to-CAD File Generator  
 **AI Workflows · CAD Automation · 3D Printing**
 
-A workflow for converting natural-language design intent into CAD-ready outputs for 3D printing experiments.
+Converts natural-language design intent into CAD-ready outputs for 3D printing workflows.
 
-**Focus:** prompt-to-geometry workflows, manufacturability constraints, rapid prototyping.
+`CAD automation` `3D printing` `AI workflows` `product engineering`
 
----
+</td>
+<td width="50%">
 
 ### Luna AI  
 **Video Intelligence · Searchable Media · AI Product**
 
 A video-intelligence system for making visual content easier to search, analyze, and understand.
 
-**Focus:** video processing, content intelligence, searchable media workflows.
+`video intelligence` `search` `AI product` `content analysis`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Tech Stack
+## Technical Stack
 
-### AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+<div align="center">
+
+### AI / ML / Computer Vision
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-111111?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 
 ### Backend / Systems
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 ### Frontend / Product
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+
+</div>
 
 ---
 
 ## Recognition
 
-- Best Paper recognition for research on **Quantum Computing as a Service**
-- UK Registered Design for an **AI-Based Financial Planning Kiosk**
-- German Utility Model Registration
-- Hackathon judging and technical community involvement
-- Applied research across AI, automation, and intelligent systems
+<table>
+<tr>
+<td width="33%">
+
+### Research  
+Best Paper recognition for work on **Quantum Computing as a Service**.
+
+</td>
+<td width="33%">
+
+### Intellectual Property  
+UK Registered Design and German Utility Model Registration.
+
+</td>
+<td width="33%">
+
+### Service  
+Hackathon judging, technical leadership, and applied AI community work.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Current Focus
 
 ```txt
-Building:     VeoTrex
-Exploring:    Private AI, computer vision, local RAG, AI-assisted CAD
-Researching:  Efficient AI systems for real-world deployment
+Building     → VeoTrex
+Exploring    → Private AI, computer vision, local RAG, AI-assisted CAD
+Researching  → Efficient AI systems for real-world deployment

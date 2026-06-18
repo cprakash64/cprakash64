@@ -1,55 +1,80 @@
-## Hi there 👋 I'm Chandra Prakash Pandey!
+# Hi, I'm Chandra Prakash Pandey
 
-Full-Stack Developer | AI/ML Engineer | Tech Innovator
+**AI/ML Engineer · Computer Vision Builder · Founder of VeoTrex**
 
-I’m a Computer Science student at Arizona State University with hands-on experience in AI, full-stack development, and neuromorphic computing. I love building products that merge cutting-edge research with practical impact. From leading Luna AI, a multimodal video analysis platform, to tackling cybersecurity, Web3, and data science challenges, I thrive on solving complex problems end-to-end.
+I build AI systems that are designed for real deployment, not just clean demos.
 
-🛠️ Core Skills
+My work sits at the intersection of **computer vision, private intelligence systems, local RAG, edge AI, and automation**. I care about systems that can run under real-world constraints: latency, privacy, reliability, and deployment cost.
 
-**Languages & Frameworks:** Python, C/C++, Java, C#, JavaScript/TypeScript, React, Angular, .NET Core
+Currently, I am building **VeoTrex**, a computer-vision platform for industrial safety auditing in construction and logistics environments.
 
-**AI/ML:** Deep Learning, NLP, Computer Vision, Neuromorphic Computing (BrainChip Akida, Nengo)
+---
 
-**Systems & Tools:** FastAPI, Flask, PostgreSQL, Redis, Docker, Kubernetes, Git/GitHub, Linux
+## What I Build
 
-**Specialties:** Full-Stack Engineering, Scalable System Design, Cybersecurity, AI-Driven Applications
+- **Computer Vision Systems**  
+  Visual intelligence workflows for detection, safety auditing, gesture recognition, and automation.
 
-📌 Currently
+- **Private AI & Local RAG**  
+  Retrieval systems, document intelligence, embeddings, vector search, and privacy-first AI workflows.
 
-🧠 Building Luna AI, a video-analysis platform turning hours of footage into searchable insights.
+- **Deployment-Focused ML**  
+  Practical machine learning systems built with reliability, cost, and real usage in mind.
 
-📊 Developing a media search engine capstone project for large-scale content analytics.
+- **Edge & Neuromorphic AI**  
+  Low-latency intelligence, event-driven perception, and research around efficient AI systems.
 
-🛩️ Prototyping AeroNerve, a neuromorphic drone using event-based vision + SNNs.
+---
 
-🎯 Highlights
+## Featured Work
 
-Led student organization Software developer association as Technical Officer, growing partnerships with Amazon & State Farm.
+### VeoTrex  
+Computer-vision platform for industrial safety auditing.  
+Building workflows for visual-data ingestion, safety-risk detection, event logging, and audit reporting.
 
-Built Echo Sign, an ASL gesture recognition tool (HackHarvard Winner 🏆).
+### DocWise  
+Local-first document intelligence system for private retrieval and Q&A.  
+Focused on reducing cloud dependency for sensitive document workflows.
 
-Designed VR surgical training simulations at ASU Makerspace, improving retention by 35%.
+### Text-to-CAD File Generator  
+AI-assisted workflow for converting natural-language design intent into CAD-ready outputs for 3D printing experiments.
 
-Runner-up at LA Hacks & finalist in multiple AI/ML hackathons.
+### Luna AI  
+Video intelligence system for making visual content searchable and easier to analyze.
 
-🤝 Let’s Collaborate
+---
 
-I’m open to roles and projects in AI/ML, full-stack development, and systems engineering. If you’re building something ambitious in AI, neuromorphic computing, or scalable web apps, let’s connect!
+## Technical Stack
 
+**Languages:** Python, JavaScript, TypeScript, C/C++, Java, SQL  
+**AI/ML:** PyTorch, OpenCV, Hugging Face, Transformers, Embeddings, Vector Search, Local RAG  
+**Backend & Systems:** FastAPI, Flask, Node.js, PostgreSQL, Redis, Docker, GitHub Actions  
+**Frontend:** React, Tailwind CSS, Vite  
+**Focus Areas:** Computer Vision, Private AI, Edge AI, Industrial Automation, VR Simulation, CAD Automation
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/chandra-prakash-pandey-536564256/) | [Portfolio](https://cpandey.com/)
+---
 
-<!--
-**cprakash64/cprakash64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Research, Recognition & IP
 
-Here are some ideas to get you started:
+- Best Paper recognition for research on **Quantum Computing as a Service**
+- UK Registered Design for an **AI-Based Financial Planning Kiosk**
+- German Utility Model Registration
+- Hackathon judging and technical community involvement
+- Applied research across AI systems, automation, and intelligent infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Currently Exploring
+
+- Computer vision for industrial safety and compliance
+- Local RAG systems for private document intelligence
+- AI-assisted CAD generation for 3D printing
+- Efficient AI systems for edge and constrained environments
+
+---
+
+## Connect
+
+- Portfolio: [cpandey.com](https://cpandey.com)
+- LinkedIn: [linkedin.com/in/cprakash64](https://www.linkedin.com/in/cprakash64/)
+- GitHub: [github.com/cprakash64](https://github.com/cprakash64)
